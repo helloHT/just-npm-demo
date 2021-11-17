@@ -1,0 +1,23 @@
+{
+  "name": "just-npm-demo",
+  "version": "1.0.0",
+  "description": "测试开发一个npm包",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha --recursive --bail"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/helloHT/just-npm-demo.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/helloHT/just-npm-demo/issues"
+  },
+  "homepage": "https://github.com/helloHT/just-npm-demo#readme",
+  "devDependencies": {
+    "mocha": "^9.1.3"
+  }
+}
